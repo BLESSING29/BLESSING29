@@ -1,0 +1,38 @@
+h1{
+    text-align: center;
+
+}
+body{
+    width: 80%;
+    padding-left: 10%;
+    padding-right: 10%;
+    margin-top: 10%;
+    background-color: #A9D7E9;
+    height: 100%;
+
+}
+form{
+    width: 80%;
+    background-color: #F3F3F3;
+    border-radius: 5%;
+    padding: 5%;
+    height:80% ;
+}
+.bl{
+    text-align: right;
+    padding-right: 20px;
+    padding-bottom: 5px;
+    
+}
+table{
+    height: 100%;
+}
+.ig{
+    padding-top:5px ;
+}
+.bouton{
+    background-color:#6BA2CE ;
+    color: white;
+    margin-left: 30%;
+    margin-top: 10px;
+}

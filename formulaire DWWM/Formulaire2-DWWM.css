@@ -1,0 +1,25 @@
+.contenaire{
+
+    width: 50%;
+    
+
+}
+.contenant{
+        width: 50%;
+        
+    }
+form{
+    width: 80%;
+    margin: 0px 10%;
+    display: flex;
+}
+.bl{
+    justify-content: space-around;
+    margin-top: 5%;
+    margin-left: 5%;
+}
+.es{
+    margin-bottom: 5%;
+    margin-top: 5px;
+    margin-left:5% ;
+}

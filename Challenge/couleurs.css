@@ -1,0 +1,30 @@
+.es{
+    display: grid ; 
+    gap: 10px 10px;
+    grid-template-columns: 20% 60% 20%;
+   grid-template-rows:20% 20% 400px 20% ; 
+ grid-template-areas:
+   " header  header    header" 
+   " blessing content bright "
+   "blessing footer  bright " 
+   " wise     wise   wise";
+}
+.header{
+grid-area: header; background-color: red;
+}
+.content{
+grid-area: content; background-color: blue;
+}
+.blessing{
+   grid-area: blessing; background-color: green;
+}
+.footer{
+    grid-area: footer; background-color: rgb(247, 232, 191);
+}
+   .bright{
+       grid-area: bright; background-color:yellow ;
+   }
+   .wise{
+       grid-area: wise; background-color: aqua;
+   }
+

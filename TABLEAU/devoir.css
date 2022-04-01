@@ -1,0 +1,8 @@
+table,td,th{ border: solid burlywood;
+border-width: 1pt;
+border-spacing: 0ch;
+}
+thead{ background-color: aqua;
+}
+tbody{ background-color: rgb(210, 30, 204);}
+tfoot{ background-color: bisque;}
