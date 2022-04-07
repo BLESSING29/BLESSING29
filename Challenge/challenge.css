@@ -4,7 +4,7 @@
     grid-template-columns: 20% 60% 20%;
    grid-template-rows:20% 20% 400px 20% ; 
  grid-template-areas:
-   " header  header    header" 
+    " header  header    header" 
    " blessing content bright "
    "blessing footer  bright " 
    " wise     wise   wise";
